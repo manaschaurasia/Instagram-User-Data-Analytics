@@ -70,3 +70,11 @@ This project involves a series of SQL queries designed to extract and analyze da
 * photo_id: ID of the photo associated with the hashtag.
 * tag_id: ID of the hashtag.
 
+
+## 🔗 Links
+[![project link](https://img.shields.io/badge/project_link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.canva.com/design/DAGF4a9pwpM/ZiNOAnhGLuKhHbK0Tiuaew/view?utm_content=DAGF4a9pwpM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaschaurasia/)
+
+
+

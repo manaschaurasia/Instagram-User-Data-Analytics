@@ -15,7 +15,7 @@ This project focuses on:
 ## 🗂️ Table of Contents
 
 * [Introduction](#heading-1 "Goto Introduction")   
-* [Problem Statement](#Problem Statement "Goto Problem Statement")   
+* [Problem Statement](# "Goto Problem Statement")   
 * [Summary](#heading-1 "Goto Summary")   
 * [Operations Performed](#heading-1 "Goto Operations Performed")   
 * [Database Schema](#heading-1 "Goto Database Schema")   

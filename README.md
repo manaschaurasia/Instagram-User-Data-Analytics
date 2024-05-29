@@ -14,11 +14,11 @@ This project focuses on:
 
 ## 🗂️ Table of Contents
 
-* [Introduction](#heading-1 "Goto heading-1")   
-* [Problem Statement](#heading-1 "Goto heading-1")   
-* [Summary](#heading-1 "Goto heading-1")   
-* [Operations Performed](#heading-1 "Goto heading-1")   
-* [Database Schema](#heading-1 "Goto heading-1")   
+* [Introduction](#heading-1 "Goto Introduction")   
+* [Problem Statement](#heading-1 "Goto Problem Statement")   
+* [Summary](#heading-1 "Goto Summary")   
+* [Operations Performed](#heading-1 "Goto Operations Performed")   
+* [Database Schema](#heading-1 "Goto Database Schema")   
 
 ### 🌟 Introduction
 

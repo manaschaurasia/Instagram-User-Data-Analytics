@@ -14,7 +14,7 @@ This project focuses on:
 
 ## 🗂️ Table of Contents
 
-* [Introduction](#Introduction "Goto Introduction")   
+* [Introduction](#Introduction "Goto Introduction")
 * [Problem Statement](#Problem-Statement "Goto Problem Statement")   
 * [Summary](#Summary "Goto Summary")   
 * [Operations Performed](#Operations-Performed "Goto Operations Performed")   
